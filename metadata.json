@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Nole Castillo - Implantes Dentales",
+  "description": "Sitio web de alta conversión para el consultorio de implantes dentales del Dr. Nole Castillo en Piura, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
